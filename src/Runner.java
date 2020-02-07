@@ -11,6 +11,5 @@ public class Runner {
         System.out.println(purple.isSquare());
 
 
-
     }
 }
